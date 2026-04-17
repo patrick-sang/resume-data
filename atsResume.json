@@ -1,8 +1,8 @@
 {
-	"fullName": "Alex Mwangi",
-	"jobTitle": "Senior Data Analyst & Diaspora Economics Specialist",
-	"email": "alex.mwangi@example.com",
-	"phone": "+254 712 345 678",
+	"fullName": "Patrick Sang",
+	"jobTitle": "GIS Developer & Data Engineer ",
+	"email": "sangpatrick211@gmail.com",
+	"phone": "+254795303969",
 	"location": "Nairobi, Kenya",
 	"linkedin": "linkedin.com/in/alex-mwangi",
 	"summary": "\n                Data-driven economist with 8+ years of experience in remittance flow analysis, diaspora investment trends, and geospatial visualization. \n                Expertise in policy advisory, economic modeling, and data storytelling. Published research on Kenya’s diaspora remittance corridors.\n                Passionate about leveraging open data and GitHub-backed CMS (Mavo) for transparent analytics.\n            ",
@@ -124,5 +124,31 @@
 			}
 		]
 	],
-	"lastUpdated": "Last sync: dynamic"
+	"lastUpdated": "Last sync: dynamic",
+	"projects": [
+		[
+			{
+				"projectName": "Kenya Diaspora Remittance Dashboard",
+				"projectDate": "2024",
+				"projectDescription": "\n                            Interactive geospatial platform visualizing real-time remittance flows from 6 global regions to Kenya. Built with Leaflet, Turf.js, and Mavo CMS.\n                        ",
+				"projectLink": "https://patrick-sang.github.io/diaspora-remittance/"
+			}
+		],
+		[
+			{
+				"projectName": "ATS-Optimized CV Template",
+				"projectDate": "2025",
+				"projectDescription": "\n                            Open-source, Mavo-powered resume template with GitHub backend, PDF export, and schema.org markup for ATS compatibility.\n                        ",
+				"projectLink": "https://github.com/patrick-sang/ats-cv-template"
+			}
+		],
+		[
+			{
+				"projectName": "Remittance Forecasting Model",
+				"projectDate": "2023",
+				"projectDescription": "\n                            Time-series analysis and machine learning model to predict diaspora remittance inflows using macroeconomic indicators.\n                        ",
+				"projectLink": "https://colab.research.google.com/drive/example"
+			}
+		]
+	]
 }
