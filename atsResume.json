@@ -7,85 +7,122 @@
 	"linkedin": "linkedin.com/in/alex-mwangi",
 	"summary": "\n                Data-driven economist with 8+ years of experience in remittance flow analysis, diaspora investment trends, and geospatial visualization. \n                Expertise in policy advisory, economic modeling, and data storytelling. Published research on Kenya’s diaspora remittance corridors.\n                Passionate about leveraging open data and GitHub-backed CMS (Mavo) for transparent analytics.\n            ",
 	"workExperiences": [
-		{
-			"position": "Senior Diaspora Analyst",
-			"dateRange": "2022 – Present",
-			"company": "Central Bank of Kenya – Research Dept",
-			"description": "\n                            • Lead remittance data modeling, forecasting inflows from 6 regions (North America, Europe, Middle East, etc.)"
-		},
-		{
-			"dateRange": "2019 – 2022",
-			"company": "KNBS & IOM Kenya (Remote)",
-			"description": "\n• Built ATS-friendly reporting frameworks for migration and remittance surveys (N=10ghhjj"
-		},
-		{
-			"position": "Junior Economist",
-			"dateRange": "2017 – 2019",
-			"company": "Diaspora Investment Hub (Nairobi)",
-			"description": "\n                            • Researched diaspora savings and investment products, delivering quarterly remittance trend reports."
-		}
+		[
+			{
+				"position": "Senior Diaspora Analyst",
+				"dateRange": "2022 – Present",
+				"company": "Central Bank of Kenya – Research Dept",
+				"description": "\n                            • Lead remittance data modeling, forecasting inflows from 6 regions (North America, Europe, Middle East, etc.)"
+			}
+		],
+		[
+			{
+				"dateRange": "2019 – 2022",
+				"company": "KNBS & IOM Kenya (Remote)",
+				"description": "\n• Built ATS-friendly reporting frameworks for migration and remittance surveys (N=10ghhjj"
+			},
+			{}
+		],
+		[
+			{
+				"position": "Junior Economist",
+				"dateRange": "2017 – 2019",
+				"company": "Diaspora Investment Hub (Nairobi)",
+				"description": "\n                            • Researched diaspora savings and investment products, delivering quarterly remittance trend reports."
+			}
+		]
 	],
 	"educations": [
-		{
-			"degree": "MSc. Economics (Data Analytics)",
-			"eduDateRange": "2015 – 2017",
-			"institution": "University of Nairobi, Kenya",
-			"eduDescription": "Thesis: \"Remittance flows and household welfare in Kenya\" – Distinction. Coursework: Econometrics, GIS, Development Finance."
-		},
-		{
-			"degree": "B.A. International Economics",
-			"eduDateRange": "2011 – 2015",
-			"institution": "University of Nairobi, Upper Second Class",
-			"eduDescription": "Minor in Statistics; President of Economics Students' Association."
-		}
+		[
+			{
+				"degree": "MSc. Economics (Data Analytics)",
+				"eduDateRange": "2015 – 2017",
+				"institution": "University of Nairobi, Kenya",
+				"eduDescription": "Thesis: \"Remittance flows and household welfare in Kenya\" – Distinction. Coursework: Econometrics, GIS, Development Finance."
+			}
+		],
+		[
+			{
+				"degree": "B.A. International Economics",
+				"eduDateRange": "2011 – 2015",
+				"institution": "University of Nairobi, Upper Second Class",
+				"eduDescription": "Minor in Statistics; President of Economics Students' Association."
+			}
+		]
 	],
 	"skills": [
-		{
-			"skillName": "Remittance Analytics"
-		},
-		{
-			"skillName": "GIS & Spatial Mapping (Leaflet, Turf.js)"
-		},
-		{
-			"skillName": "Mavo / GitHub CMS"
-		},
-		{
-			"skillName": "Python (Pandas, GeoPandas)"
-		},
-		{
-			"skillName": "ATS Resume Optimization"
-		},
-		{
-			"skillName": "Statistical Modeling (R, Stata)"
-		},
-		{
-			"skillName": "Data Storytelling & Dashboards"
-		}
+		[
+			{
+				"skillName": "Remittance Analytics"
+			}
+		],
+		[
+			{
+				"skillName": "GIS & Spatial Mapping (Leaflet, Turf.js)"
+			}
+		],
+		[
+			{
+				"skillName": "Mavo / GitHub CMS"
+			}
+		],
+		[
+			{
+				"skillName": "Python (Pandas, GeoPandas)"
+			}
+		],
+		[
+			{
+				"skillName": "ATS Resume Optimization"
+			}
+		],
+		[
+			{
+				"skillName": "Statistical Modeling (R, Stata)"
+			}
+		],
+		[
+			{
+				"skillName": "Data Storytelling & Dashboards"
+			}
+		]
 	],
 	"certifications": [
-		{
-			"certName": "Certified Data Analyst (CDA)",
-			"certOrg": "Data Science Council of America"
-		},
-		{
-			"certName": "Remittance & Migration Economics",
-			"certOrg": "World Bank Group / IMF"
-		},
-		{
-			"certName": "GIS for Economic Development",
-			"certOrg": "Esri / UNECA"
-		}
+		[
+			{
+				"certName": "Certified Data Analyst (CDA)",
+				"certOrg": "Data Science Council of America"
+			}
+		],
+		[
+			{
+				"certName": "Remittance & Migration Economics",
+				"certOrg": "World Bank Group / IMF"
+			}
+		],
+		[
+			{
+				"certName": "GIS for Economic Development",
+				"certOrg": "Esri / UNECA"
+			}
+		]
 	],
 	"languages": [
-		{
-			"languageName": "English (Fluent)"
-		},
-		{
-			"languageName": "Swahili (Native)"
-		},
-		{
-			"languageName": "French (Professional Working)"
-		}
+		[
+			{
+				"languageName": "English (Fluent)"
+			}
+		],
+		[
+			{
+				"languageName": "Swahili (Native)"
+			}
+		],
+		[
+			{
+				"languageName": "French (Professional Working)"
+			}
+		]
 	],
 	"lastUpdated": "Last sync: dynamic"
 }
