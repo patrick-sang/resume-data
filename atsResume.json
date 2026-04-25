@@ -4,19 +4,9 @@
 	"phone": "+254795303969",
 	"location": "Nairobi, Kenya",
 	"linkedin": "linkedin.com/in/patricksang",
-	"summary": "\n                Data-driven economist with 8+ years of experience in remittance flow analysis, diaspora investment trends, and geospatial visualization. \n                Expertise in policy advisory, economic modeling, and data storytelling. Published research on Kenya’s diaspora remittance corridors.\n                Passionate about leveraging open data and GitHub-backed CMS (Mavo) for transparent analytics.\n            ",
+	"summary": "Data-driven economist with 8+ years of experience in remittance flow analysis, diaspora investment trends, and geospatial visualization. Expertise in policy advisory, economic modeling, and data storytelling. Published research on Kenya’s diaspora remittance corridors. Passionate about leveraging open data and GitHub-backed CMS (Mavo) for transparent analytics.",
 	"workExperiences": [
-		[
-			{
-				"position": "Geospatial Data Science intern",
-				"dateRange": "Feb 2024 – Apr 2024",
-				"company": "Amini",
-				"description": ".Digitized 50+ old topographic maps using ArcGIS & QGIS, improving data accessibility for environmental modeling."
-			},
-			{
-				"position": "GIS Analyst"
-			}
-		],
+		[],
 		[
 			{
 				"dateRange": "2019 – 2022",
