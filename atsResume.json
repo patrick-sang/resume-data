@@ -10,19 +10,19 @@
 			{
 				"position": "Geospatial Data scientist",
 				"dateRange": "Feb 2024 – Apr 2024)",
-				"company": "Amini                                                                                                                                                                            Nairobi",
+				"company": "Amini Nairobi",
 				"description": "Digitized 50+ historical maps; built interactive web maps with Python.\nManaged spatial databases in PostgreSQL; improved query efficiency by ~30%.\nAnalyzed satellite imagery for a land cover pilot project.\nManaged a spatial database with 50 million building footprints using PostGIS/GeoPandas.\nOptimized spatial joins from 45 minutes to 18 seconds by implementing spatial indexing (Quadtree/STR-tree).\nHandled multi-temporal satellite imagery datasets exceeding 200,000 x 200,000 pixels (40 GPixels).\n"
 			},
 			{
 				"position": "GIS Analyst",
 				"dateRange": "May 2025-Dec-2025",
-				"company": "Resource Center for Resource Mapping &Development(RCMRD)                                                                            Nairobi                                                                                         ",
+				"company": "Resource Center for Resource Mapping &Development(RCMRD) Nairobi",
 				"description": "Processed and cleaned 50+ GB of raw geospatial data (LiDAR, satellite imagery, vector files) for enterprise GIS.\nConverted and transformed 10+ disparate spatial datasets into a centralized geodatabase, reducing query time by 30%\nAutomated data extraction workflows using Python/ArcPy, cutting manual processing time by 15 hours/week.\nManaged 1,000+ versioned feature classes in an enterprise SDE environment with 99.9% data integrity.\nDeveloped 5 predictive habitat suitability models using MaxEnt and raster analysis, achieving 85% accuracy against field observations.\nPerformed hydrologic modeling for 500+ km² watershed, identifying 15 high-risk flood zones.\nDesigned and published 20+ interactive web maps using ArcGIS Online/Leaflet\n"
 			},
 			{
 				"position": "GIS Developer  ",
 				"dateRange": "2025-present",
-				"company": "virtuallyexpert.com                                                                                                                                                     Remote",
+				"company": "virtuallyexpert.com Remote",
 				"description": "Built automated ETL pipeline ingesting 10 TB of aerial imagery daily into GeoServer; cut manual processing from 6 hrs to 20 min using AWS Batch + GDAL.\nMaintained 99.95% uptime for remote GIS infrastructure (GeoServer + TileServer GL) supporting 50+ concurrent users across 4 countries,\nWrote 120+ pytest suites for geospatial functions, catching 30+ bugs pre-release – reduced remote debugging cycles by 40%.\nMigrated 15 legacy ArcPy scripts to Python + PostGIS, lowering annual cloud costs by $18k and improving remote team reproducibility.\n"
 			}
 		],
@@ -42,7 +42,7 @@
 				"degree": "BSc. Geospatial Information Science(with IT)",
 				"eduDateRange": "2020-2025",
 				"institution": "Maseno University, Upper Second Class",
-				"eduDescription": " Focused on spatial data acquisition, GIS analysis, remote sensing, and digital cartography — combining technical proficiency in geospatial software and programming with applied problem-solving in environmental and urban systems."
+				"eduDescription": "Focused on spatial data acquisition, GIS analysis, remote sensing, and digital cartography — combining technical proficiency in geospatial software and programming with applied problem-solving in environmental and urban systems."
 			}
 		]
 	],
@@ -145,7 +145,7 @@
 		],
 		[
 			{
-				"projectName": "ATS-Optimized CV Template",
+				"projectName": "kenya County Disability Dshboard",
 				"projectDate": "2025",
 				"projectDescription": "\nOpen-source, Mavo-powered resume template with GitHub bagjjfjfbcbckend, PDF export, and schema.org markup for ATS compatibility.\n",
 				"projectLink": "https://github.com/patrick-sang/ats-cv-template"
