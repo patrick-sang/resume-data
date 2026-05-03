@@ -45,9 +45,7 @@
 			{
 				"skillName": "Programming: Python,SQL,"
 			},
-			{
-				"skillName": "Cloud & DevOps"
-			},
+			{},
 			{}
 		],
 		[
@@ -57,7 +55,7 @@
 		],
 		[
 			{
-				"skillName": "Mavo / GitHub CMS"
+				"skillName": "Data Formats & ETL"
 			}
 		],
 		[
