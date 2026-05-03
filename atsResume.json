@@ -64,7 +64,9 @@
 			{
 				"skillName": "ETL & Data Processing"
 			},
-			{}
+			{
+				"skillName": "Container & Orchestration"
+			}
 		],
 		[
 			{
@@ -72,9 +74,7 @@
 			}
 		],
 		[
-			{
-				"skillName": "ATS Resume Optimization"
-			}
+			{}
 		],
 		[
 			{
