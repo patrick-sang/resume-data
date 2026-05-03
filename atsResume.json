@@ -1,5 +1,5 @@
 {
-	"fullName": "Patrick Kiplangat",
+	"fullName": "Patrick Sang",
 	"email": "sangpatrick211@gmail.com",
 	"phone": "+254795303969",
 	"location": "Nairobi, Kenya",
@@ -135,5 +135,6 @@
 				"projectLink": "https://colab.research.google.com/drive/example"
 			}
 		]
-	]
+	],
+	"jobTitle": "GIS Developer"
 }
