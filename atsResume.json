@@ -88,7 +88,11 @@
 		]
 	],
 	"certifications": [
-		[],
+		[
+			{
+				"certName": "ASPRS GIS/LIS Certification (from American Society for Photogrammetry and Remote Sensing)"
+			}
+		],
 		[
 			{
 				"certName": "Remittance & Migration Economics",
