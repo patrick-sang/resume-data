@@ -17,7 +17,7 @@
 				"position": "GIS Analyst",
 				"dateRange": "May 2025-Dec-2025",
 				"company": "Resource Center for Resource Mapping &Development(RCMRD)                                                                            Nairobi                                                                                         ",
-				"description": "Processed and cleaned 50+ GB of raw geospatial data (LiDAR, satellite imagery, vector files) for enterprise GIS.\nConverted and transformed 10+ disparate spatial datasets into a centralized geodatabase, reducing query time by 30%\nAutomated data extraction workflows using Python/ArcPy, cutting manual processing time by 15 hours/week.\n\n"
+				"description": "Processed and cleaned 50+ GB of raw geospatial data (LiDAR, satellite imagery, vector files) for enterprise GIS.\nConverted and transformed 10+ disparate spatial datasets into a centralized geodatabase, reducing query time by 30%\nAutomated data extraction workflows using Python/ArcPy, cutting manual processing time by 15 hours/week.\nManaged 1,000+ versioned feature classes in an enterprise SDE environment with 99.9% data integrity.\n\n"
 			}
 		],
 		[],
