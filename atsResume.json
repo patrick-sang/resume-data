@@ -11,7 +11,7 @@
 				"position": "Geospatial Data scientist",
 				"dateRange": "Feb 2024 – Apr 2024)",
 				"company": "Amini                                                                                                                                                                            Nairobi",
-				"description": "Digitized 50+ historical maps; built interactive web maps with Python.\nManaged spatial databases in PostgreSQL; improved query efficiency by ~30%.\nAnalyzed satellite imagery for a land cover pilot project.\nManaged a spatial database with 50 million building footprints using PostGIS/GeoPandas.\n\n"
+				"description": "Digitized 50+ historical maps; built interactive web maps with Python.\nManaged spatial databases in PostgreSQL; improved query efficiency by ~30%.\nAnalyzed satellite imagery for a land cover pilot project.\nManaged a spatial database with 50 million building footprints using PostGIS/GeoPandas.\nOptimized spatial joins from 45 minutes to 18 seconds by implementing spatial indexing (Quadtree/STR-tree).\n\n"
 			},
 			{
 				"position": "GIS Analyst",
