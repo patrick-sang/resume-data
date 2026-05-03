@@ -90,7 +90,8 @@
 	"certifications": [
 		[
 			{
-				"certName": "ASPRS GIS/LIS Certification (from American Society for Photogrammetry and Remote Sensing)"
+				"certName": "ASPRS GIS/LIS Certification (from American Society for Photogrammetry and Remote Sensing)",
+				"certOrg": "2024"
 			}
 		],
 		[
