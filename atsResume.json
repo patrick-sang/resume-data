@@ -45,7 +45,9 @@
 			{
 				"skillName": "Programming: Python,SQL,"
 			},
-			{},
+			{
+				"skillName": "Version Control:"
+			},
 			{
 				"skillName": "Coordinate Systems:"
 			}
