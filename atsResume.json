@@ -22,7 +22,8 @@
 			{
 				"position": "GIS Developer  ",
 				"dateRange": "2025-present",
-				"company": "virtuallyexpert.com                                                                                                                                                     Remote"
+				"company": "virtuallyexpert.com                                                                                                                                                     Remote",
+				"description": "Built automated ETL pipeline ingesting 10 TB of aerial imagery daily into GeoServer; cut manual processing from 6 hrs to 20 min using AWS Batch + GDAL.\n"
 			}
 		],
 		[],
