@@ -137,7 +137,7 @@
 	"projects": [
 		[
 			{
-				"projectName": "Kenya Diaspora Remittance Dashboard",
+				"projectName": "Interactive Budget Dashboard – Kenya (FY 2023/24)",
 				"projectDate": "2024",
 				"projectDescription": "Developed a web-based dashboard visualizing budget performance across 47 Kenyan counties using Leaflet.js, Chart.js, and D3.js. Features include choropleth maps, multi-metric analysis (absorption, revenue, wage bills, pending bills), comparative tools, trend analysis (5-year), and exportable data. Revealed key fiscal patterns: absorption rates (64.7–90.8%), 72% revenue dependency on national transfers, and Kshs 181B+ pending bills. Serves government, citizens, researchers, and policymakers.\n\n",
 				"projectLink": "https://patrick-sang.github.io/diaspora-remittance/"
