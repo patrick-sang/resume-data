@@ -62,11 +62,15 @@
 			},
 			{
 				"skillName": "Coordinate Systems:"
-			}
+			},
+			{}
 		],
 		[
 			{
 				"skillName": "GIS & Spatial Mapping (Leaflet, Turf.js)"
+			},
+			{
+				"skillName": "PostgreSQL/POSTGIS"
 			}
 		],
 		[
