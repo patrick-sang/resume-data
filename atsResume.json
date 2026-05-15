@@ -23,7 +23,7 @@
 				"position": "GIS Developer  ",
 				"dateRange": "2025-present",
 				"company": "virtuallyexpert.com Remote",
-				"description": "Built automated ETL pipeline ingesting 10 TB of aerial imagery daily into GeoServer; cut manual processing from 6 hrs to 20 min using AWS Batch + GDAL.\nMaintained 90% uptime for remote GIS infrastructure (GeoServer + TileServer GL) supporting 50+ concurrent users across 4 countries,\nWrote 120+ pytest suites for geospatial functions, catching 30+ bugs pre-release – reduced remote debugging cycles by 40%.\nMigrated 15 legacy ArcPy scripts to Python + PostGIS, lowering annual cloud costs by $18k and improving remote team reproducibility.\n"
+				"description": "Built automated ETL pipeline ingesting 10 TB of aerial imagery daily into GeoServer; cut manual processing from 6 hrs to 20 min using AWS Batch + GDAL.\nMaintained 90% uptime for remote GIS infrastructure (GeoServer + TileServer GL) supporting 50+ concurrent users across 4 countries,\nWrote 50+ pytest suites for geospatial functions, catching 30+ bugs pre-release – reduced remote debugging cycles by 40%.\nMigrated 15 legacy ArcPy scripts to Python + PostGIS, lowering annual cloud costs by $18k and improving remote team reproducibility.\n"
 			}
 		],
 		[],
