@@ -63,7 +63,9 @@
 			{
 				"skillName": "Coordinate Systems:"
 			},
-			{}
+			{
+				"skillName": "Geodjango"
+			}
 		],
 		[
 			{
@@ -90,7 +92,9 @@
 			}
 		],
 		[
-			{}
+			{
+				"skillName": "n8n Automations"
+			}
 		],
 		[
 			{
