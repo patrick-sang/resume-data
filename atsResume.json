@@ -108,12 +108,7 @@
 		]
 	],
 	"certifications": [
-		[
-			{
-				"certName": "Certified Drone Pilot",
-				"certOrg": "KAA"
-			}
-		],
+		[],
 		[
 			{
 				"certName": "Esri ArcGIS Developer Certification - from Esri)"
