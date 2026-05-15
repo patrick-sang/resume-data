@@ -151,14 +151,7 @@
 				"projectLink": "https://github.com/patrick-sang/ats-cv-template"
 			}
 		],
-		[
-			{
-				"projectName": "Remittance Forecasting Model",
-				"projectDate": "2023",
-				"projectDescription": "\nTime-series analysis and machine learning model to predict diaspora remittance inflows using macroeconomic indicators.\n",
-				"projectLink": "https://colab.research.google.com/drive/example"
-			}
-		]
+		[]
 	],
 	"jobTitle": "GIS Developer"
 }
