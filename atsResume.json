@@ -31,7 +31,10 @@
 	],
 	"educations": [
 		[
-			{}
+			{
+				"degree": "Bachelor Science (with IT(",
+				"eduDateRange": "2020-2024"
+			}
 		],
 		[]
 	],
